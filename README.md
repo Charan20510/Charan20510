@@ -44,14 +44,147 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
 
-### Backend & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+**Languages**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&label=)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&label=)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&label=)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&label=)
+
+**Backend & Frameworks**<br/>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&label=)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&label=)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&label=)
+
+**Databases**<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&label=)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&label=)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&label=)
+
+**ML / AI**<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&label=)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&label=)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&label=)
+
+**Tools & Concepts**<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&label=)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&label=)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&label=)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&label=)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+### 🎮 Bobby Carrot — RL Game Agent
+
+An RL agent trained across **25 puzzle levels** that achieves **zero-shot generalisation** on unseen levels using PPO, Rainbow DQN, ICM & MCTS.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Charan20510)
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### 🔊 Text-to-Speech AI App
+
+Full-stack multilingual TTS app with **10+ language support**, async REST API handling, and a responsive Tailwind UI — deployed on Gunicorn + WhiteNoise.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Charan20510)
+
+</td>
+
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Charan20510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charan20510&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Charan20510&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 💼 Experience
+
+**Network Design Intern** — *BSNL, Tirupati* `Nov 2024 – Jan 2025`
+- Designed a **3-branch enterprise network** in Cisco Packet Tracer with IPv4 subnetting across geographically separate LANs
+- Benchmarked RIP vs OSPF; documented **~40% faster failover** with OSPF under simulated link-failure
+- Diagnosed inter-branch failures using PING/TRACERT and restored full connectivity
+
+---
+
+## 📚 Currently Exploring
+
+```
+📐 System Design & DSA        →  Sharpening problem-solving for product-company interviews
+🤖 LLMs / GenAI               →  Prompt engineering, fine-tuning, RAG pipelines
+⚡ Edge AI / Embedded ML      →  AI accelerators, TinyML, VLSI-AI intersection
+```
+
+---
+
+## 🤝 Open to Collaborate On
+
+- 🔬 ML / RL research projects
+- 🌐 Full-stack open-source tools
+- 💡 Startup MVPs and side-projects
+- 🎓 ECE + AI hybrid engineering challenges
+
+---
+
+## 🏗️ Skill Matrix at a Glance
+
+| Domain | Tools | Level |
+|---|---|---|
+| Backend Engineering | Django · FastAPI · DRF · REST | ⭐⭐⭐⭐⭐ |
+| ML / RL | PyTorch · PPO · DQN · ICM · MCTS | ⭐⭐⭐⭐⭐ |
+| Databases | PostgreSQL · MySQL · MongoDB | ⭐⭐⭐⭐ |
+| DSA / Problem Solving | C++ · Python | ⭐⭐⭐⭐ |
+| Systems / Networks | Linux · Cisco · OSPF/RIP | ⭐⭐⭐ |
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+*"Build things that learn. Ship things that scale."*
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charan-tej-avvaru)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avvarucharantej11@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=Charan20510&color=6C63FF&style=for-the-badge&label=Profile+Views" />
+
+</div>
+
+<!-- 🔧 Things to update regularly:
+  - Project repo links (replace # with actual URLs)
+  - LinkedIn URL slug
+  - "Currently Exploring" section as you learn new things
+  - Achievements/certifications when you earn them
+-->![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
