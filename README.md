@@ -22,22 +22,23 @@
 
 ---
 
-## 🧠 About Me
+## About Me :
 
-```python
-charan = {
-    "name"       : "Charan Tej Avvaru",
-    "role"       : "Full-Stack & ML Engineer",
-    "education"  : "B.Tech ECE (VLSI) @ IIIT Manipur  |  Graduating 2027",
-    "location"   : "Andhra Pradesh, India 🇮🇳",
-    "looking_for": "SDE / ML Engineer roles at product-based companies",
-    "currently"  : ["System Design & DSA", "LLMs / GenAI", "Edge AI / Embedded ML"],
-    "fun_fact"   : "Trained an RL agent that generalises zero-shot to levels it has NEVER seen 🤖🎮",
-}
-```
+<div style="border: 1.5px solid #6EFF6E; border-radius: 10px; padding: 20px 28px; background-color: #0d1117; display: inline-block;">
 
-> I ship things end-to-end — from REST APIs in production to RL agents that learn curiosity.  
-> Currently in my final year, actively seeking full-time SDE / ML engineering opportunities.
+🔭 &nbsp;I'm currently working on **Edge AI systems & sharpening DSA for product-company interviews**
+
+🕺 &nbsp;I'm looking to collaborate on **ML / RL research, full-stack open-source tools & startup MVPs**
+
+🤝 &nbsp;I'm looking for help with **SDE / ML Engineer roles at product-based companies**
+
+🌱 &nbsp;I'm currently learning **System Design · LLMs / GenAI · Edge AI & Embedded ML**
+
+💬 &nbsp;Ask me about **PPO, Rainbow DQN, Django REST APIs, or zero-shot RL generalisation**
+
+⚡ &nbsp;Fun fact: **I trained an RL agent that generalises zero-shot to puzzle levels it has NEVER seen 🤖🎮**
+
+</div>
 
 ---
 
