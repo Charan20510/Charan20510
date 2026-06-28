@@ -28,7 +28,7 @@
 charan = {
     "name"       : "Charan Tej Avvaru",
     "role"       : "Full-Stack & ML Engineer",
-    "education"  : "B.Tech ECE (VLSI) @ IIIT Manipur  |  Graduating May 2026",
+    "education"  : "B.Tech ECE (VLSI) @ IIIT Manipur  |  Graduating 2027",
     "location"   : "Andhra Pradesh, India 🇮🇳",
     "looking_for": "SDE / ML Engineer roles at product-based companies",
     "currently"  : ["System Design & DSA", "LLMs / GenAI", "Edge AI / Embedded ML"],
